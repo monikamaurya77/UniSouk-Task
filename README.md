@@ -50,6 +50,9 @@ Font Awesome for icons
 
 📷 Screenshots
 
+![image](https://github.com/user-attachments/assets/583b99b1-1051-43e4-bea2-a62cd45df932)
+
+
 ```
 🌐 Live Demo
 This site is deployed on Vercel
