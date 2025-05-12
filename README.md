@@ -19,7 +19,7 @@ project-folder/
 
 1. **Clone or Download the Repository**
    ```bash
-   git clone https://github.com/your-username/nullbrains-landing.git
+   git clone https://github.com/monikamaurya77/UniSouk-Task.git
    cd nullbrains-landing
    OR simply download the ZIP and extract it.
    ```
