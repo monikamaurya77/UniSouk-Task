@@ -5,14 +5,14 @@ A responsive landing page built using HTML, CSS, and JavaScript with full mobile
 ---
 
 ## 📁 Folder Structure
-
+```
 project-folder/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── /images
-
+``
 ---
 
 ## 🚀 How to Run Locally
